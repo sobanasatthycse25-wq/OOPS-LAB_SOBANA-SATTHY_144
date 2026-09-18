@@ -146,3 +146,28 @@ Total Bill      : Rs.545.0
 Status          : Amount deducted from balance
 Thank You!
 ======================================
+
+
+Enter Consumer Number : 102
+Enter Consumer Name   : Arun
+Enter Address         : Madurai
+Enter Bill Type (Prepaid/Postpaid): Postpaid
+Enter Units Consumed  : 250
+
+======================================
+          ELECTRICITY BILL
+======================================
+Consumer Number : 102
+Consumer Name   : Arun
+Address         : Madurai
+Bill Type       : Postpaid
+Units Consumed  : 250
+--------------------------------------
+Energy Charge   : Rs.675.0
+Fixed Charge    : Rs.50.0
+--------------------------------------
+Total Bill      : Rs.725.0
+======================================
+Status          : Payment is due
+Thank You!
+======================================
